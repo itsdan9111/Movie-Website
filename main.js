@@ -12,7 +12,7 @@ const tvseries = [
     id: 'fmab',
     rating: '9.0',
     rateID: 'fmab-rate',
-    img: 'https://static.wikia.nocookie.net/fma/images/e/e9/Fmab-poster.png/revision/latest?cb=20131124145205',
+    img: 'https://cdn.discordapp.com/attachments/689435600947904513/903253401721245706/Fmab-poster.png',
     imgID: 'fmab-img',
     },
     {
