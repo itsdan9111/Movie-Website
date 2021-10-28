@@ -1,5 +1,6 @@
 # Movie Website
-
+Muhammad Zydan Priambada
+GDSC ID: 23
 
 ## Screenshots
 
