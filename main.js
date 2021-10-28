@@ -6,12 +6,6 @@ const tvseries = [
     rateID: 'bb-rate',
     img: 'https://m.media-amazon.com/images/M/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg',
     imgID: 'bb-img',
-    desc: "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
-    descID: 'bb-desc',
-    popID: 'bb-pop',
-    titleID: 'bb-popname',
-    vid: 'https://www.youtube.com/embed/HhesaQXLuRY',
-    vidID: 'bb-vid'
     },
     {
     name: 'Fullmetal Alchemist: Brotherhood',
@@ -20,12 +14,6 @@ const tvseries = [
     rateID: 'fmab-rate',
     img: 'https://static.wikia.nocookie.net/fma/images/e/e9/Fmab-poster.png/revision/latest?cb=20131124145205',
     imgID: 'fmab-img',
-    desc: "Two brothers search for a Philosopher's Stone after an attempt to revive their deceased mother goes awry and leaves them in damaged physical forms.",
-    descID: 'fmab-desc',
-    popID: 'fmab-pop',
-    titleID: 'fmab-popname',
-    vid: '',
-    vidID: 'fmab-vid'
     },
     {
     name: 'Game of Thrones',
