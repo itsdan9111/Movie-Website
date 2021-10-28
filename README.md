@@ -4,6 +4,7 @@
 ## Screenshots
 
 ### Homepage
+Zoomed out 67%
 ![Zoomed out 67%](https://user-images.githubusercontent.com/89240304/139237654-c3dd1f32-6ba5-4662-8e9a-e511a71b312b.png)
 
 ### Detail Page
